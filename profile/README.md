@@ -1,4 +1,4 @@
-# Engineering Digital Twin Education Community 🚀
+# Engineering Digital Twin Education Community
 
 Welcome to the **Engineering Digital Twin Education** organization. Our mission is to bridge the gap between theory and practice by providing a collaborative space to share, 
 learn, and build Digital Twins for research and educational purposes.
