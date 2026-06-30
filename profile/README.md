@@ -39,4 +39,8 @@ We are an open community! You can contribute by:
 Initial core contributions stem from the [ANR MBDO project](https://mbdo.github.io). We thank all partners for their commitment to opening this research to the wider community.
 
 ---
+## Repositories:
+[DT-Use-Cases](https://github.com/edt-edu/DT-Use-Cases) contains the Digital Twin implementation of our main use cases from the MBDO project. 
+
+---
 [Website (edt.edu)](https://edt.edu) 
